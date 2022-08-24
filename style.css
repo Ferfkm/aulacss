@@ -1,0 +1,38 @@
+body {
+  background-color: #520c30
+}
+h1 {
+  text-align: center; color: ; font-size: 60px; font-style: italic; color: #ffabab;
+  border: 10px solid black;
+  padding: 1%;
+  margin-left: 20%;
+  margin-right: 20%
+}
+
+h2 {
+  text-align: center; font-size: 40px; color: #f26b7a
+}
+p {
+  text-align: justify; color: #1D94A8; font-size: 30px;
+}
+
+h3{
+  text-align: justify; color: #4fadb3; font-size: 50px
+}
+
+#imagemprincipal{
+  width: 20%;
+  border: 10px solid black;
+}
+#fraseprincipal{
+  text-align: center; color: #f26b7a; font-family: cursive;
+}
+.alunos1{
+  text-align: justify; font-size: 30px; color: #f26b7a;
+}
+.frase{
+  background-color: white
+}
+.turmae{
+font-size: 30px; color: #f26b7a;
+}
