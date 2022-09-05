@@ -1,7 +1,14 @@
 body {
   background-color: #520c30
 }
-h1 {
+header{
+  background-color: black;
+}
+.cabeçalho{
+  text-align: center; color: white; font-size: 40px
+}
+
+h2 {
   text-align: center; color: ; font-size: 60px; font-style: italic; color: #ffabab;
   border: 10px solid black;
   padding: 1%;
@@ -9,14 +16,14 @@ h1 {
   margin-right: 20%
 }
 
-h2 {
+h3 {
   text-align: center; font-size: 40px; color: #f26b7a
 }
 p {
   text-align: justify; color: #1D94A8; font-size: 30px;
 }
 
-h3{
+h4{
   text-align: justify; color: #4fadb3; font-size: 50px
 }
 
@@ -26,6 +33,7 @@ h3{
 }
 #fraseprincipal{
   text-align: center; color: #f26b7a; font-family: cursive;
+  display: inline-block;
 }
 .alunos1{
   text-align: justify; font-size: 30px; color: #f26b7a;
@@ -33,6 +41,14 @@ h3{
 .frase{
   background-color: white
 }
-.turmae{
+.turmaE{
 font-size: 30px; color: #f26b7a;
+margin-left: 5%
+}
+ul{
+  display: inline-block;
+  vertical-align: top;
+}
+img{
+  width: 50%
 }
